@@ -1,2 +1,2 @@
 # mlflow-mongodb
-MySQL plugin for MLflow
+Mongodb plugin for MLflow
